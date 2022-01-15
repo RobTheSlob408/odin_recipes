@@ -1,1 +1,2 @@
 # odin_recipes
+This project will be a basic HTML website showcasing different recipes within pop culture. This will be showing off what I've learned through Project Odin's HTML Basics Foundations lessons.
